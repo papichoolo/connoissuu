@@ -43,14 +43,14 @@ tools:
   integration:
     provider: weather
     setup:
-      openweathermap_api_key: d6670dd2de9213be040b32b7ae27749e
+      openweathermap_api_key: {your_openweathermap_api_key_here}
 
 - name: internet_search
   type: integration
   integration:
     provider: brave
     setup:
-      brave_api_key: BSA5v5UrtToBZiAcLpaDROooJbeADsL
+      brave_api_key: {your_brave_api_key_here}
 
 ########################################################
 ####################### MAIN WORKFLOW ##################
