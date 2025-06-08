@@ -53,7 +53,7 @@ Step 5: Final Compilation & PDF Generation
 ### Dependencies
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## 📖 Usage
