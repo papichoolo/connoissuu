@@ -52,11 +52,8 @@ Step 5: Final Compilation & PDF Generation
 
 ### Dependencies
 
-```python
-julep              # AI workflow orchestration
-python-dotenv      # Environment variable management
-fpdf2             # PDF generation
-pyyaml            # YAML configuration parsing
+```
+pip install requirements.txt
 ```
 
 ## 📖 Usage
